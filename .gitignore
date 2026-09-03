@@ -8,3 +8,7 @@ __pycache__/
 # Test and lint caches
 .pytest_cache/
 .ruff_cache/
+.mypy_cache/
+
+# Local package metadata
+*.egg-info/
